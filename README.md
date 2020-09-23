@@ -6,7 +6,7 @@
 ***在V1.0主程式上傳前需要做的事***  
   
   
-1. 小組成員登入sqlplus執行grant all privileges to group4 identified by oracle，創建帳號;  
+1. 小組成員登入sqlplus執行grant all privileges to group4 identified by oracle，創建帳號。  
 2. 下載jsontransfer檔案，執行TestOnly.class，建立MAINTABLE和插入表格資料。
 3. MAINTABLE未來不會再手動新增或修改，它的用途是把文化部的網路資料塞到資料庫，方便大家去查詢測試自己要做的功能。
 4. 因為原始資料比較亂，所以只有category欄位資料型態是int，其他都是String；如果要做的功能需要運算，可以select MAINTABLE欄位資料放到另一個新增的表格，e.g. Latitude_Longitude、Price。
