@@ -1,5 +1,6 @@
 # TWCulturalActivities-V0.9
-這是main分支，大家不要clone到這個分支哦  
+這是main分支，大家不要clone到這個分支哦～  
+先按右上角fork新的分支到自己帳號內，再去clone帳號內的分支  
   
   
 ***在V1.0主程式上傳前需要做的事***  
