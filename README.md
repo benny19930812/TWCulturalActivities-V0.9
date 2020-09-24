@@ -13,7 +13,7 @@
 4. 執行專案內Java Resources/src/package35_A內的Test1.class，會建立有經緯度的LOCATIONTABLE，有興趣可以玩玩
 5. MAINTABLE不需手動新增或修改，它的用途是把文化部的網路資料塞到資料庫，方便大家去查詢測試自己要做的功能
 6. MAINTABLE欄位都是ACT_(活動)開頭，欄位詳細說明參見:https://cloud.culture.tw/frontsite/trans/SearchShowAction.do?method=doFindTypeJOpenApi&category=all
-7. 如果要做的功能需要運算，可以select MAINTABLE欄位資料放到另一個新增的表格，e.g. Latitude_Longitude、Price
+7. 如果要做的功能需要運算，可以select MAINTABLE欄位資料放到另一個新增的表格，e.g. LOCATIONTABLE
 8. 最終SQL查詢資料的呈現如果會橫跨兩張表格的資料，可以用join的方式一次查兩張表
 9. 在Servlet還沒研究透徹前，可以循第一次專案的DAO思考怎麼寫那些方法
 10. 每個人寫的程式碼都開不同package放，e.g. package35_A，package35_B，package04_A
@@ -23,6 +23,6 @@
   
 第二步. ***仿照上課內容寫好透過 Datasource 方式串接JDBC連線到資料庫的Servlet程式***  
 
-1. 未完待續......
+1. 未完待續......回家再研究XD
   
   
