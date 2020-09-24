@@ -19,7 +19,7 @@
 9. 在Servlet還不太清楚怎麼寫之前，可以循第一次專案的DAO思考怎麼寫那些方法
 10. 每個人寫的程式碼都在Java Resources/src下開不同package放，package命名格式是package+座號+_自由命名，e.g. package35_A，package03_BB，package04_CCC
 11. ＷebContent下的html網頁也要在檔名前方上座號，e.g. 35_XXX.html，03_XXX.html
-12. 號碼後面的XXX和CCC都是可以按照個人習慣命名，但前面的座號還是得加
+12. 號碼後面的XXX和CCC都是可以按照個人習慣命名，記得前面加座號就好
 13. 如果之後要用到別人的方法可以import其它人的package
 14. 要進行第二步-撰寫servlet程式前，在Workspace內新增Server 
   
