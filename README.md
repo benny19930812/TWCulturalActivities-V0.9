@@ -19,7 +19,7 @@
 10. 每個人寫的程式碼都開不同package放，e.g. package35_A，package35_B，package04_A
 11. ＷebContent下的html網頁也要在檔名前方上座號，e.g. 35_XXX.html，03_XXX.html
 12. 專案內有建好每個人的預設package，可以參考參考，號碼後面的XXX和A都是可以改的
-  
+13. 要進行第二步-撰寫servlet程式前，在workspace內新增server 
   
 第二步. ***仿照上課內容寫好透過 Datasource 方式串接JDBC連線到資料庫的Servlet程式***  
 
