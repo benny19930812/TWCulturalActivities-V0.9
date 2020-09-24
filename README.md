@@ -18,4 +18,10 @@
   
   
 7. 測試ok後，上傳servlet連線JDBC的程式當V1.0的專案，大家可以下載參考研究一下怎麼去連線DB，然後嘗試用JSP/servlet寫功能  
-8. 每個人寫的程式碼都開不同package放，e.g. package35，package+後綴詞座號，然後ＷebContent下的html網頁也要在檔名後加上座號，方便分辨檔案創造者  
+8. 每個人寫的程式碼都開不同package放，e.g. package35，package+後綴詞座號，然後ＷebContent下的html網頁也要在檔名後加上座號，方便分辨檔案創造者 
+  
+  
+***MAINTABLE欄位說明***    
+  
+  
+1. PK
