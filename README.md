@@ -2,7 +2,7 @@
   
 這是main分支      
 大家先按右上角fork，建立新的分支到自己帳號內，再clone帳號內的分支到本地電腦  
-舊的ForkThisProject分支有Github使用說明，可依個人需求決定要不要刪除
+前幾天的ForkThisProject分支可刪除了
   
   
 第一步. ***import專案***  
