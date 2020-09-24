@@ -14,7 +14,7 @@
 4. 新增C:\Java\FinalProject\inputCSV資料夾，把2.csv丟進去，並執行專案內Java Resources/src/package35_A內的Test2.class，會建立含活動地點經緯度的LOCATIONTABLE
 5. MAINTABLE不需手動新增或修改，它的用途是把文化部的網路資料塞到資料庫，方便大家去查詢測試自己要做的功能
 6. MAINTABLE欄位都是ACT_(活動)開頭，欄位詳細說明參見:https://opendata.culture.tw/upload/dataSource/2019-10-29/2adf6cae-fe57-4e01-a380-b45222e38ad1/7e69be410cfd8ba4f9695c5cab9bc87f.pdf
-7. 如果要做的功能需要運算，可以select MAINTABLE欄位資料放到另一個新增的表格，e.g. LOCATIONTABLE
+7. 如果功能需要運算欄位資料，可以select MAINTABLE欄位資料放到另一個新增的表格，e.g. LOCATIONTABLE
 8. 最終SQL查詢資料的呈現如果會橫跨兩張表格的資料，可以用join的方式一次查兩張表
 9. 在Servlet還沒研究透徹前，可以循第一次專案的DAO思考怎麼寫那些方法
 10. 每個人寫的程式碼都在Java Resources/src下開不同package放，e.g. package35_A，package03_BB，package04_CCC
