@@ -16,7 +16,7 @@
 6. MAINTABLE欄位都是ACT_(活動)開頭，欄位詳細說明參見:https://opendata.culture.tw/upload/dataSource/2019-10-29/2adf6cae-fe57-4e01-a380-b45222e38ad1/7e69be410cfd8ba4f9695c5cab9bc87f.pdf
 7. 如果功能需要運算欄位資料，可以select MAINTABLE欄位資料放到另一個新增的表格，e.g. LOCATIONTABLE
 8. 最終SQL查詢資料的呈現如果會橫跨兩張表格的資料，可以用join的方式一次查兩張表
-9. 在Servlet還沒研究透徹前，可以循第一次專案的DAO思考怎麼寫那些方法
+9. 在Servlet還不太清楚怎麼寫之前，可以循第一次專案的DAO思考怎麼寫那些方法
 10. 每個人寫的程式碼都在Java Resources/src下開不同package放，e.g. package35_A，package03_BB，package04_CCC
 11. ＷebContent下的html網頁也要在檔名前方上座號，e.g. 35_XXX.html，03_XXX.html
 12. 號碼後面的XXX和CCC都是可以按照個人習慣命名，但前面的座號還是得加
